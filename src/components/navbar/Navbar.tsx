@@ -10,6 +10,7 @@ export default function Navbar() {
 	<nav className={`${ styles.navbar } ${ inter.className }`}>
 		<Link href='/'>Home</Link>
 		<Link href='/blog'>Blog</Link>
+		<Link href='/gallery'>Gallery</Link>
 		<Link href='/contact'>Contact</Link>
 	</nav>
   )
