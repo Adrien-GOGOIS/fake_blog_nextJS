@@ -11,7 +11,7 @@ export default function Navbar() {
 		<Link href='/'>Home</Link>
 		<Link href='/blog'>Blog</Link>
 		<Link href='/gallery'>Gallery</Link>
-		<Link href='/contact'>Contact</Link>
+		<Link href='/insult'>French art of speach</Link>
 	</nav>
   )
 }
